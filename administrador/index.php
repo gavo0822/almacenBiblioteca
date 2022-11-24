@@ -49,12 +49,12 @@ if($_POST){
                         <form method="POST">
                         <div class = "form-group">
                         <label>Usuario</label>
-                        <input type="text" class="form-control" name="usuario"  placeholder="Escribe tu usuario">
+                        <input type="text" class="form-control" name="usuario"  placeholder=" Usuario juanda">
                         </div>
 
                         <div class="form-group">
                         <label>Contraseña</label>
-                        <input type="password" class="form-control" name="contrasenia" placeholder="Escribe tu contraseña">
+                        <input type="password" class="form-control" name="contrasenia" placeholder="contraseña sena123">
                         </div>
 
                         <button type="submit" class="btn btn-primary">Entrar al administrador</button>
